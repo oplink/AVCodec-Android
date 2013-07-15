@@ -1,0 +1,4 @@
+AVCodec-Android
+===============
+
+FFmpeg LGPL
